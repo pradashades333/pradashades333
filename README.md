@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pradashades333/pradashades333/main/banner.svg" width="120" alt="logo" />
-</div>
 
 ## About Me 📝
 
