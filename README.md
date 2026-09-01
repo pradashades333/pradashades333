@@ -1,7 +1,7 @@
 
 ## About Me 📝
 
-Developer & audio-DSP tinkerer. I build web apps, game tools, and JUCE/VST3 plugins. Interested in pretty much anything I can ship.
+Developer & audio-DSP tinkerer. I build web apps, game tools, and JUCE/VST3 plugins.
 
 ## Projects 🖥️ `</>`
 
