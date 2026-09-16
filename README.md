@@ -1,21 +1,16 @@
+# Alex Dreve
 
-## About Me 📝
+Full-stack developer building React/TypeScript apps, Node/Express APIs, Prisma/Postgres backends, and C++/JUCE audio plugins.
 
-Developer & audio-DSP tinkerer. I build web apps, game tools, and JUCE/VST3 plugins.
+- Site: https://quoliv.com
+- Email: alexdreve03@gmail.com
+- Focus: SaaS apps, data-backed tools, developer utilities, and audio plugins
 
-## Projects 🖥️ `</>`
+## Featured work
 
-- **[Quoliv](https://quoliv.com)** — Gamified investing education: bite-size lessons + a $10,000 fake-money trading simulator · web · iOS · Android · [quoliv.com](https://quoliv.com)
-- **[MM2 Godly Watch](https://github.com/pradashades333/MM2-Godly-Watch)** — Live Murder Mystery 2 value tracker with eBay pricing & item history · [godlywatch.com](https://godlywatch.com)
-- **[OSRS Planner](https://github.com/pradashades333/osrs-planner)** — Old School RuneScape gear & progression planner
-- **[Ember](https://github.com/pradashades333/Ember)** — Harmonic saturation VST3/AU plugin (C++/JUCE)
-- **[Raveland](https://github.com/pradashades333/Raveland)** — JUCE VST3/AU synthesizer
-
-## Tech 
-
-`JavaScript` · `React` · `Node.js` · `Python` · `C++` · `JUCE` . `HTML `. 
-
-## Contact 
-
-- **Discord:** `333v0id`
-- **GitHub:** [@pradashades333](https://github.com/pradashades333)
+- [MM2 Godly Watch](https://github.com/pradashades333/MM2-Godly-Watch) - Live MM2 godly value tracker with eBay pricing and item history.
+- [OSRS Planner](https://github.com/pradashades333/osrs-planner) - OSRS training and quest planner with hiscores lookup and combined goals.
+- [SaelinShine](https://github.com/pradashades333/SaelinShine) - Adaptive clarity VST3/AU plugin built with C++ and JUCE.
+- [Ember](https://github.com/pradashades333/Ember) - Harmonic saturation VST3/AU plugin built with C++ and JUCE.
+- [Afroplug](https://github.com/pradashades333/afroplug) - Multi-FX JUCE audio plugin.
+- [AniMind](https://github.com/pradashades333/AniMind) - Full-stack character and scene app with Express, Prisma, and TypeScript.
