@@ -1,4 +1,3 @@
-# Alex Dreve
 
 Full-stack developer building React/TypeScript apps, Node/Express APIs, Prisma/Postgres backends, and C++/JUCE audio plugins.
 
